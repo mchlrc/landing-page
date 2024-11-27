@@ -1,0 +1,26 @@
+* {
+    background-color: white;
+    color: black;
+    font-family: "Roboto";
+    font-size: 18;
+    box-sizing: content-box;
+    border: 1px solid red;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+  }
