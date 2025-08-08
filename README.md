@@ -1,2 +1,3 @@
-# odin-landing-page
-The odin project landing page assignment
+# landing-page
+
+This is a static landing page
